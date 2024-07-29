@@ -4,4 +4,4 @@ An interesting Solana dApp for demonstrating the latest solana application layer
 
 NOTE: SoldApps has been deployed into the devent.
 
-![SoldApps Preview](https://github.com/mjzk/SolAgg/blob/main/docs/soldapps_nft.png)
+![SoldApps Preview](https://github.com/mjzk/soldapp/blob/main/docs/soldapps_nft.png)
